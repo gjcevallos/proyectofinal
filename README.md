@@ -2,11 +2,7 @@
 
 ## Génesis Cevallos
 
-## El guepardo (*Acinonyx jubatus*) es uno de los felinos más veloces y singulares del mundo. Este proyecto se centra en el análisis genético del guepardo, comparando algunos de sus genes con los de otros# La Huella del ADN Felino :paw_prints:
-
-## Génesis Cevallos
-
-## El guepardo (*Acinonyx jubatus*) es uno de los felinos más veloces y singulares del mundo. Este proyecto se centra en el análisis genético del guepardo, comparando algunos de sus genes con los de otro$
+## El guepardo (*Acinonyx jubatus*) es uno de los felinos más veloces y singulares del mundo. Este proyecto se centra en el análisis genético del guepardo, comparando algunos de sus genes con los de otros felinos cercanos como la pantera para poder ver el gen de maullido.
 
 Se realizará:
 - Recolección de secuencias genéticas del guepardo y pantera para ver el gen del maullido.
