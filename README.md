@@ -21,24 +21,13 @@
    El árbol resultante permite observar relaciones de parentesco entre especies como *Panthera leo*, *Panthera pardus*, *Acinonyx jubatus*, *Felis catus*, y *Lynx lynx*, confirmando hipótesis sobre divergencia evolutiva en función del uso vocal.
 
 
-## ️ Uso del Pipeline
+## Uso del Pipeline
 
-### Requisitos
+## Los detalles de los comandos utilizados en cada paso se encuentran en las carpetas correspondientes en los archivos llamados  data/data_README.txt y  results/resultados_README.txt.
 
-- [MAFFT](https://mafft.cbrc.jp/alignment/software/)
-- [FastTree](http://www.microbesonline.org/fasttree/)
-- Bash shell
-
-### Ejecución
-
-```bash
-cd Scripts
-./run_pipeline.sh ../Data/genes.fasta 
-
-
-Los detalles de los comandos utilizados en cada paso se encuentran en las carpetas correspondientes en los archivos llamados  data/data_README.txt y  results/resultados_README.txt.
 
 ![ ](https://images.unsplash.com/photo-1569600428323-7fd18782b483?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
 
 ## Resultados y Análisis
 
@@ -52,6 +41,7 @@ El árbol filogenético generado muestra que:
 
 
 ## Requisitos para ejecutar el programa
+
 - Python 3
 - MAFFT
 - IQ-TREE
@@ -61,12 +51,14 @@ El árbol filogenético generado muestra que:
 - Acceso a datos genómicos de NCBI
 
 ## ¿Cómo usar el programa?
+
 1. Descargar las secuencias ortólogas usando OrthoFinder.
 2. Alinear con MAFFT.
 3. Ejecutar IQ-TREE para crear árboles individuales.
 4. Usar ASTRAL para crear el árbol especie.
 5. Visualizar con FigTree.
 6. Subir resultados a GitHub con `git add`, `commit`, y `push`.
+
 
 ![ ](https://images.unsplash.com/photo-1623059192378-46d5760ab051?q=80&w=1701&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
@@ -81,10 +73,11 @@ Contacto: gjcevallos@puce.edu.ec
 ## Referencias
 
 
--Johnson WE, et al. (2006). The late Miocene radiation of modern Felidae: a genetic assessment. Science.
+- Johnson WE, et al. (2006). The late Miocene radiation of modern Felidae: a genetic assessment. Science.
 
-=PAWSE (2024). Panthera species genome project.
+= PAWSE (2024). Panthera species genome project.
 
--FastTree Manual: http://www.microbesonline.org/fasttree/
+- FastTree Manual: http://www.microbesonline.org/fasttree/
 
--MAFFT Documentation: https://mafft.cbrc.jp/alignment/software/
+- MAFFT Documentation: https://mafft.cbrc.jp/alignment/software/
+
