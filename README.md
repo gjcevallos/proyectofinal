@@ -23,7 +23,7 @@
 
 ## Uso del Pipeline
 
-## Los detalles de los comandos utilizados en cada paso se encuentran en las carpetas correspondientes en los archivos llamados  data/data_README.txt y  results/resultados_README.txt.
+** Los detalles de los comandos utilizados en cada paso se encuentran en las carpetas correspondientes en los archivos llamados  data/data_README.txt y  results/resultados_README.txt.
 
 
 ![ ](https://images.unsplash.com/photo-1569600428323-7fd18782b483?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
@@ -37,7 +37,7 @@ El árbol filogenético generado muestra que:
 
 - Acinonyx jubatus (guepardo) se separa del clado de Panthera, como se espera por su adaptación evolutiva al sprint.
 
-= Felis catus y Lynx lynx están más alejados, reflejando la divergencia filogenética a nivel de tribus.
+- Felis catus y Lynx lynx están más alejados, reflejando la divergencia filogenética a nivel de tribus.
 
 
 ## Requisitos para ejecutar el programa
@@ -65,9 +65,9 @@ El árbol filogenético generado muestra que:
 
 ## Autora
 
-Génesis Cevallos
-Estudiante de Biología – PUCE
-Contacto: gjcevallos@puce.edu.ec
+** Génesis Cevallos
+** Estudiante de Biología – PUCE
+** Contacto: gjcevallos@puce.edu.ec
 
 
 ## Referencias
@@ -75,7 +75,7 @@ Contacto: gjcevallos@puce.edu.ec
 
 - Johnson WE, et al. (2006). The late Miocene radiation of modern Felidae: a genetic assessment. Science.
 
-= PAWSE (2024). Panthera species genome project.
+- PAWSE (2024). Panthera species genome project.
 
 - FastTree Manual: http://www.microbesonline.org/fasttree/
 
