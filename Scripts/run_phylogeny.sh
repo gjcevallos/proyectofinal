@@ -9,8 +9,8 @@ cat Data/*.fasta > Results/combined.fasta
 # Alineamiento con MAFFT
 mafft --auto Results/combined.fasta > Results/alignment.fasta
 
-# Árbol filogenético con IQ-TREE
-iqtree -s Results/alignment.fasta -nt AUTO -m MFP -bb 1000 -pre Results/tree
+# "Construyendo árbol con FastTree..."
+FastTree -nt ../Results/genes_aligned.fasta > ../Results/genes_tree.nwk
 
-echo "¡Listo! Árbol guardado en Results/tree.treefile"
+# "¡Listo! Árbol guardado en Results/genes_tree.nwk"
 
