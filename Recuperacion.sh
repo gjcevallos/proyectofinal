@@ -1,4 +1,4 @@
-#!/bin/bash
+# Examen de Recuperacion
 
 # Crear carpeta para guardar datos
 mkdir -p Data
